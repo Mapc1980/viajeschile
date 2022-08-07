@@ -7,8 +7,8 @@ body {
 
 .navbar {
     background-color: transparent;
+    font-family: "Roboto", sans-serif;
     position: fixed;
-    font-family: "Roboto+Slab", sans-serif;
     width: 100vw;
     z-index: 1;
 }
@@ -30,4 +30,15 @@ body {
 #Contacto h1 {
     font-family: "Roboto";
     font-weight: 52px;
+}
+
+
+/*Footer*/
+
+#Footer h1 {
+    font-family: "Roboto";
+}
+#Footer a {
+    color: white;
+    text-decoration: none;
 }
