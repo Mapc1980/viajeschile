@@ -1,3 +1,7 @@
+html{
+    scroll-behavior: auto !important;
+}
+
 /*NAV bar*/
 body {
     font-family: Raleway;
