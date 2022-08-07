@@ -1,6 +1,6 @@
 /*NAV bar*/
 body {
-    font-family: Helvetica;
+    font-family: Raleway;
     background-color: black;
     color: white;
 }
@@ -8,6 +8,20 @@ body {
 .navbar {
     background-color: transparent;
     position: fixed;
+    font-family: "Roboto+Slab", sans-serif;
     width: 100vw;
     z-index: 1;
+}
+
+/*Quienes_Somos*/
+#Quienes-Somos {
+    font-family: "Roboto";
+    background-color: black;
+}
+
+/*Destacados*/
+#Destacados {
+
+    font-family: "Roboto";
+    
 }
